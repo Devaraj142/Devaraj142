@@ -7,7 +7,7 @@ I love turning ideas into reality through code and collaborating with other deve
 - **Languages:** Python, JavaScript, HTML, CSS
 - **Frameworks/Libraries:** Tkinter, Flask, Django
 - **Databases:** MySQL, SQLite3
-- **Tools:** Git, Docker, VS Code
+- **Tools:** Git, Docker, VS Code, PyCharm
 
 
 #### 🌱 Currently Learning:
