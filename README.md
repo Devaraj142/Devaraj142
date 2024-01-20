@@ -5,7 +5,7 @@ I love turning ideas into reality through code and collaborating with other deve
 #### 🚀 Skills:
 
 - **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks/Libraries:** Flask, Django
+- **Frameworks/Libraries:** Tkinter, Flask, Django
 - **Databases:** MySQL, SQLite3
 - **Tools:** Git, Docker, VS Code
 
