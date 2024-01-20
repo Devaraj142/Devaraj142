@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Devaraj Murugan! 👋
 
-<!--
-**Devaraj142/Devaraj142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love turning ideas into reality through code and collaborating with other developers to build awesome projects.
 
-Here are some ideas to get you started:
+#### 🚀 Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Frameworks/Libraries:** Flask, Django
+- **Databases:** MySQL, SQLite3
+- **Tools:** Git, Docker, VS Code
+
+
+#### 🌱 Currently Learning:
+
+I'm always eager to learn and stay up-to-date with the latest technologies. Currently, I'm exploring Docker, MangoDB, PostgreSQL and Django Advance
+
+Feel free to explore my repositories and let's collaborate on something amazing! 🚀
