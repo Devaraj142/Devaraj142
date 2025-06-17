@@ -4,14 +4,14 @@ I love turning ideas into reality through code and collaborating with other deve
 
 #### 🚀 Skills:
 
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks/Libraries:** Tkinter, Flask, Django
-- **Databases:** MySQL, SQLite3
+- **Languages:** Python, JavaScript
+- **Frameworks/Libraries:** Fastapi, Faststream, Tkinter, Flask, Django
+- **Databases:** MySQL, SQLite3, ScyllaDb
 - **Tools:** Git, Docker, VS Code, PyCharm
 
 
-#### 🌱 Currently Learning:
+#### 🌱 About Me:
 
-I'm always eager to learn and stay up-to-date with the latest technologies. Currently, I'm exploring Docker, MangoDB, PostgreSQL and Django Advance
+I'm currently exploring complete backend developing and architect to contribute my skills and expertise in product development. With one year of hands-on experience in the field, I've honed my abilities to deliver efficient and effective solutions. I'm eager to connect with like-minded professionals, students, collaborators, and potential developer's. Whether it's discussing the latest trends in development or exploring exciting career opportunities
 
 Feel free to explore my repositories and let's collaborate on something amazing! 🚀
